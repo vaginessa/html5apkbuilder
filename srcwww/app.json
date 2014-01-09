@@ -1,0 +1,17 @@
+{
+	"reponame":"sample-crosswalk-webgl",
+	"title":"CrossWalk WebGL",
+	"abbr":"CrossWalk 3js",
+	"tooltip":"[CrossWalk for Android] A sample that uses the three.js library with 3D WebGL Renderers & touch.",
+	"description":"[CrossWalk for Android] A sample that uses the three.js library with 3D WebGL Renderers & touch.",
+	"articleurl":"http://software.intel.com/en-us/html5/articles/crosswalk-application-runtime",
+    "screenshotUrl":"",
+    "iconUrl":"",
+	"highlights":["Crosswalk"],
+    "keywords":["Crosswalk"],
+	"visible": "true",
+	"apppreview":"false",
+	"appname":"",
+	"relname":"4.0.0"
+}
+
